@@ -2,7 +2,7 @@
 const categorias = ["Primera", "Segunda", "Tercera", "Cuarta", "Quinta", "Sexta"];
 let jugadores = [];
 let continuar = true;
-git 
+
 // ----- Clase y funciones -----
 class Jugador {
   constructor(nombre, categoria) {
